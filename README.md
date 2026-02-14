@@ -1,4 +1,5 @@
 👨🏻‍💻 Customer Behavior Data Analytics Project
+
 📌 1. About the Project
 
 This project is an end-to-end customer behavior analytics solution that simulates real-world business scenarios and demonstrates the complete workflow followed by professional data analysts. The goal is to transform raw customer and transaction data into actionable insights that help businesses improve customer retention, engagement, and revenue.
